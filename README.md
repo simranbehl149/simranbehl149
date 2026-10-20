@@ -1,102 +1,125 @@
-<h1 align="center">Hi 👋, I'm Simranpreet Kaur</h1>
+# Hi 👋, I'm Simranpreet Kaur
 
-<h3 align="center">🚀 MERN Stack Developer | Frontend Developer | Open to Work</h3>
+### MERN Stack Developer | Frontend Developer | Open to Work
+
+I'm a developer interested in building responsive, user-friendly web applications using modern frontend and backend technologies. I enjoy learning new technologies, solving problems, and turning ideas into functional applications.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+Developer;React.js+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;Frontend+Developer;React.js+Developer;Always+Learning+and+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=simranbehl149&label=Profile+Views&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=simranbehl149&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently working on **RecycleScrap**
-- 🌱 Learning **Advanced React.js & Backend Development**
-- 🎬 Built **Popcornix – Movie Ticket Booking System**
-- 🛒 Built **iTech – E-Commerce Website**
-- ♻️ Developing **RecycleScrap – Smart Scrap Collection Platform**
-- 💼 Looking for **Frontend Developer & MERN Stack Opportunities**
-- 📫 Reach me at **simranbehl495@gmail.com**
+- 💻 Interested in building full-stack web applications using the MERN stack.
+- 🌱 Currently learning advanced React.js and backend development.
+- ♻️ Currently working on **RecycleScrap**, a smart scrap collection platform.
+- 🎬 Built **Popcornix**, a movie ticket booking system.
+- 🛒 Built **iTech**, an e-commerce website for electronics products.
+- 🎯 Looking for opportunities as a **MERN Stack Developer or Frontend Developer**.
+- 📫 Email: **simranbehl495@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Technical Skills
 
 <p align="left">
-<a href="https://www.linkedin.com/in/simranpreet-kaur-b06806252/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50" />
-</a>
-
-<a href="https://leetcode.com/u/duaybb56bk/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode" width="50" />
-</a>
-
-<a href="mailto:simranbehl495@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50" />
-</a>
-</p>
-
----
-
-## 💻 Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,nodejs,express,mongodb,mysql,bootstrap,tailwind,git,github,postman,figma,vscode,c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,nodejs,express,mongodb,mysql,bootstrap,tailwind,git,github,postman,figma,vscode,c,cpp,python" alt="Technical skills" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎬 Popcornix
-Movie Ticket Booking System built using MERN Stack with Authentication, Movie Listings, Seat Booking and Booking History.
+### 🎬 Popcornix — Movie Ticket Booking System
 
-### 🛒 iTech
-Full Stack E-Commerce Website for Electronics Products with Cart, Authentication and Order Management.
+A movie ticket booking application built using the MERN stack.
 
-### ♻️ RecycleScrap
-Eco-friendly platform that connects users with scrap collectors to promote recycling and waste management.
+- Movie listings and browsing
+- User authentication
+- Seat booking
+- Booking history
 
----
+**Technologies:** MongoDB, Express.js, React.js, Node.js
 
-## 📊 GitHub Stats
+### 🛒 iTech — Electronics E-Commerce Website
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=simranbehl149&show_icons=true&theme=tokyonight" />
-</p>
+A full-stack e-commerce website focused on electronics products.
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=simranbehl149&theme=tokyonight" />
-</p>
+- Product browsing
+- Shopping cart
+- User authentication
+- Order management
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=simranbehl149&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
+**Technologies:** MERN Stack
 
----
+### ♻️ RecycleScrap — Smart Scrap Collection Platform
 
-## 🏆 GitHub Trophies
+An eco-friendly platform designed to connect users with scrap collectors and promote recycling and waste management.
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=simranbehl149&theme=tokyonight&row=1&column=7" />
-</p>
+**Focus:** Recycling, scrap collection, and waste management.
 
 ---
 
-## 💡 Fun Fact
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/simranpreet-kaur-b06806252/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/duaybb56bk/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode" width="40" alt="LeetCode" />
+  </a>
+  <a href="mailto:simranbehl495@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" />
+  </a>
+</p>
+
+- **GitHub:** [simranbehl149](https://github.com/simranbehl149)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/simranpreet-kaur-b06806252/)
+- **LeetCode:** [View my profile](https://leetcode.com/u/duaybb56bk/)
+- **Email:** simranbehl495@gmail.com
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simranbehl149&show_icons=true&theme=default&hide_border=true" alt="GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simranbehl149&layout=compact&theme=default&hide_border=true" alt="Most used programming languages" />
+</p>
+
+---
+
+## 💡 My Development Mindset
 
 ```javascript
 const simran = {
   role: "MERN Stack Developer",
-  skills: ["React.js", "Node.js", "Express.js", "MongoDB"],
+  skills: [
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB"
+  ],
   currentProject: "RecycleScrap",
   goal: "Become a Full Stack Developer",
   motto: "Code • Learn • Build • Repeat 🚀"
 };
+
+console.log(simran.motto);
 ```
 
-⭐ From [Simranpreet Kaur](https://github.com/simranbehl149)
+---
+
+⭐ **Thanks for visiting my profile!**
+
+I'm open to learning, collaborating on projects, and exploring opportunities in frontend and full-stack development.
